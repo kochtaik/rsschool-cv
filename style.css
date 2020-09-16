@@ -1,0 +1,93 @@
+html {
+  font-size: 10px
+}
+
+body {
+  background #FFF;
+  padding: 25px;
+  font-family: 'Kumbh Sans', sans-serif;
+  height: 100%;
+  margin: 0;
+  width: auto;
+  font-size: 2rem;
+
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+h3 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.cv-photo {
+  display: flex;
+  border-radius: 50%;
+  border: solid 1px black;
+  height: 100%;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.main {
+  margin: 20px 8px;
+  padding: 15px;
+  background-color: #DCD9CD;
+  border-radius: 5px;
+}
+
+.section-name {
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin: 25px auto;
+  border: 3px solid black;
+  width: 75%;
+  height: 50px;
+  padding: 5px;
+}
+
+.section-name-text {
+  text-align: center;
+  line-height: 5px;
+}
+
+.about-text {
+  font-size: 2rem;
+  margin: 0 auto;
+  width: 75%;
+  text-align: justify;
+}
+
+.skills-text {
+  font-size: 2rem;
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 200px 17px;
+}
+
+
+.education-items {
+  text-align: center;
+}
+
+.contact-items {
+  text-align: justify;
+  font-size: 2rem;
+}
+
+.education-item {
+  list-style-type: none;
+  line-height: 3.5rem;
+}
+
+.contact-item {
+  list-style-type: none;
+  line-height: 3.5rem;
+  font-size: 1.5rem;
+}
